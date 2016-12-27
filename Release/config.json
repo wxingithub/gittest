@@ -1,0 +1,7 @@
+{
+		"dest":"root:wxwx@(127.0.0.1:3306)/data11",
+		"source":"ucampus:2wsx#EDC$RFV@(121.195.186.153:3306)/vplus",
+		"email":{
+		"send_mail":false
+		}
+}
